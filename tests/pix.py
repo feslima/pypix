@@ -2,7 +2,7 @@ from decimal import Decimal
 from typing import Union
 
 import pytest
-from src.pypix import create_pix_string_code
+from src.pypix_static import create_pix_string_code
 
 
 @pytest.mark.parametrize(['key', 'name', 'city', 'value', 'expected'], [

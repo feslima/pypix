@@ -8,7 +8,7 @@ This can be used for automation of [QR Code generation](https://github.com/linco
 Just run:
 
 ```shell
-pip install pypix
+pip install pypix-static
 ```
 
 # Usage
