@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "pypix",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/__pycache__": true
+		},
+		"workbench.tree.indent": 20,
+		"editor.formatOnSave": true,
+		"python.pythonPath": "${ENV:HOME}/.local/share/virtualenvs/pypix-MPLiP_FS/bin/python",
+		"autoDocstring.docstringFormat": "sphinx",
+		"[python]": {
+			"editor.rulers": [
+				80
+			],
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": true
+			},
+		},
+		"python.testing.pytestEnabled": true,
+		"python.testing.nosetestsEnabled": false,
+		"python.testing.unittestEnabled": false,
+		"python.testing.pytestArgs": []
+	}
+}
