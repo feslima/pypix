@@ -30,3 +30,6 @@ pip install pypix
 >>> image = make(code)
 >>> image.save('qrcode_pix.png')
 ```
+
+## Demo
+![](animation.gif)
